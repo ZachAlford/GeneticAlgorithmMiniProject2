@@ -1,6 +1,9 @@
-# GeneticAlgorithmMiniProject2
+# Genetic Algorithm Mini-Project 2
+
 Zach Alford
+
 SYS 411 Machine Learning
+
 Spring 2016 (edited 9/20/16)
 
 For this project, I use a genetic algorithm (“GA”) to build a classifier for the Fisher’s Iris Data, a well-known dataset with 150 subjects. Each subject has 4 defining characteristics (“petal length,” “petal width,” “sepal length,” and “sepal width”), and each subject is classified into 1 of 3 classes (“0,” “1,” and “2”). See [https://en.wikipedia.org/wiki/Iris_flower_data_set](https://en.wikipedia.org/wiki/Iris_flower_data_set).
